@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "7.5.1",
-    "versionCode": "255",
+    "versionCode": "265",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/MagiskManager-v7.5.1.apk",
     "note": "https://github.com/topjohnwu/Magisk/blob/manager-v7.5.1/app/src/main/res/raw/changelog.md"
   },
@@ -9,9 +9,9 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
   },
   "magisk": {
-    "version": "20.2",
-    "versionCode": "20200",
-    "link": "https://github.com/passerdhr/magiskselfversion/releases/download/V20.2/Magisk-disable-dm-verity-v20.2.zip",
-    "md5": "3f21d84acde0dc6269ca1fdd823a961d"
+    "version": "19.3",
+    "versionCode": "19300",
+    "link": "https://github.com/passerdhr/magiskselfversion/releases/download/V19.2/Magisk-disable-dm-verity-v19.3.zip",
+    "md5": "31a8c404870528683de2d46d668f4f99"
   }
 }
